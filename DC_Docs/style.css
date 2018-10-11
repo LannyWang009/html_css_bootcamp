@@ -51,8 +51,7 @@ body {
 
 /* Change color on hover */
 .sidenav a:hover {
-    background-color: #ddd;
-    color: black;
+    color:white;
 }
 
 /* Style the content */
@@ -61,5 +60,10 @@ body {
     padding-left: 20px;
 }
 
-
-
+input {
+    border-color: #aaaaa5;
+    background-color: #4c4c47;
+    color:grey;
+    padding:5px;
+    font-size:10px;
+}

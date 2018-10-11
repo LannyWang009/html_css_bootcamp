@@ -26,6 +26,7 @@ footer {
 ul.menu li{
     display: inline;
     font-size:10px;
+    padding-left:20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
 }
 
@@ -42,7 +43,8 @@ ul.menu {
     display: block;
     padding-top: 80px;
     align-items: center;
-    margin:0;
+    margin:auto;
+    width:50%;
 }
 
 #logo {
@@ -93,6 +95,7 @@ ul.bottom-list li{
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
     line-height:120%;
     display:inline;
+    padding-left:30px;
 }
 
 
@@ -110,3 +113,4 @@ p.credit {
     text-align: center;
     padding-bottom: 20px;
 }
+
